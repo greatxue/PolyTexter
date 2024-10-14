@@ -1,0 +1,8 @@
+﻿SMILES,tg,pred,,
+*O[Si](CCCN=C1c2c(ccc(c2C(=NCCC[Si](*)(C)C)c2ccccc12)O)O)(C)C,7.50,51.30,,
+*Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc1ccc(cc1)C(c1ccc(cc1)*)(c1ccc(cc1)O)C,219.29,255.52,,
+*OP(=O)(N=Nc1ccc(cc1)COC(=O)c1cc(cc(c1)C(C)(C)C)C(=O)OCc1ccc(cc1)N=NP(=O)(OCCCCCC*)OC)OC,62.00,62.39,,
+*c1cc2c(C(=O)N(C2=O)c2c(ccc(c2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)*)CP(=O)(OCC)OCC)cc1,218.00,264.06,,
+*Nc1c(cc(cc1)NC(=O)c1ccc(cc1)NC(=O)CCCCCCCCCCC(=O)Nc1ccc(cc1)C(=O)*)C(=O)OCCCCCCCCCCCCCCCC,199.50,187.43,,
+*C(C*)(C(=O)OCCF)C,90.00,76.42,,
+*N1C(=O)c2c(C1=O)cc(cc2)Oc1ccc(cc1)Oc1ccc(cc1)Oc1cc2c(C(=O)N(C2=O)c2ccc(cc2)Oc2ccc(cc2)Sc2ccc(cc2)Oc2ccc(cc2)*)cc1,198.50,225.33,,
